@@ -1,4 +1,4 @@
-# EVALUACIÓN FINAL MÓDULO 4: DESARROLLO DE UNA INTERFAZ DE USUARIO ANDROID - APLICACIÓN LIBROS
+# DESARROLLO DE UNA INTERFAZ DE USUARIO ANDROID - APLICACIÓN LIBROS
 
 **Este documento proporciona una guía completa sobre la aplicación de Libros, desarrollada en Android. Aquí encontrará una explicación paso a paso de su estructura, funcionamiento, y los conceptos de diseño aplicados.**
 
